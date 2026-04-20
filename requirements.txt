@@ -1,0 +1,8 @@
+fastapi==0.136.0
+uvicorn[standard]==0.44.0
+python-multipart==0.0.26
+spacy==3.8.1
+pdfminer.six==20260107
+python-docx==1.2.0
+pandas==3.0.2
+axios==0.28.0
